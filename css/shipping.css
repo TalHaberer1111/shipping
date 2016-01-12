@@ -1,3 +1,13 @@
 #story {
   display: none;
 }
+
+.yellow-background {
+  background-color: yellow;
+  color:blue;
+}
+
+.green-background {
+  background-color: blue;
+  color: white;
+}

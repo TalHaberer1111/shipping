@@ -18,4 +18,16 @@ $(document).ready(function() {
 
     event.preventDefault();
   });
+
+  $("button#yellow").click(function() {
+  $("body").removeClass();
+  $("body").addClass("yellow-background");
+});
+
+$("button#green").click(function() {
+  $("body").removeClass();
+  $("body").addClass("green-background");
+});
+
+
 });
