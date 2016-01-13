@@ -3,11 +3,24 @@
 }
 
 .yellow-background {
-  background-color: yellow;
-  color:blue;
+  background-color: #ffffcc;
+  color:#007acc;
 }
 
-.green-background {
-  background-color: blue;
+.green-background{
+  background-color: #006080;
   color: white;
+}
+
+button {
+  padding: 20px;
+  margin: 15px;
+}
+body {
+  padding: 15px;
+  margin: 15px;
+}
+#blanks {
+  margin: 15px;
+  padding: 15px;
 }
